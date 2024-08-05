@@ -1,11 +1,14 @@
-Hier ist der korrigierte Text:
-
 # NADOO-Teach
 Dokumentation über den Lernplan
 
 1. Dieses GitHub-Repositories einen Stern geben und Forken für eigene Notizen, Feedback, Fragen und Verbesserungen.
   1.1 öffne das Reposetory.
-   Auf der Hautseite hier 
+   Auf der Hautseite hier klicken
+   (Bild mit Pfeil auf fork)
+   1.2 Github Desktop herrunterladen und isntallierne: https://github.com/apps/desktop
+   1.3 Dieses Repo clonen
+   ![Github_clone](https://github.com/user-attachments/assets/71ab440d-8267-4b15-9170-4fd3a2929b99)
+
 
 3. Für asynchrone Terminierung, z.B. Besprechungen und unregelmäßige Termine, ist es hilfreich, ein Kalenderterminierungstool zu verwenden. Hier setzen wir auf das DSGVO-konforme Tool meetergo. Die erste Aufgabe ist das Erstellen eines Kontos. Sollte bereits ein Kalendertool vorhanden sein, sollte der Link an christoph.backhaus@nadooit.de gesendet werden. Seite: https://my.meetergo.com/
 
