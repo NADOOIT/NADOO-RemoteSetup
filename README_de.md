@@ -8,7 +8,8 @@ Dokumentation über den Lernplan
 2. Für asynchrone Terminierung, z.B. Besprechungen und unregelmäßige Termine, ist es hilfreich, ein Kalenderterminierungstool zu verwenden. Hier setzen wir auf das DSGVO-konforme Tool meetergo. Die erste Aufgabe ist das Erstellen eines Kontos. Sollte bereits ein Kalendertool vorhanden sein, sollte der Link an christoph.backhaus@nadooit.de gesendet werden. Seite: https://my.meetergo.com/
 
 3. Als Mitglied ins Büro einladen (anfordern beim Büromanager, dass ist derzeit Christoph Backhaus).
-   ![Profil_ausfüllen](https://github.com/user-attachments/assets/ede9a170-7b5e-4041-b2a9-4346d8165363)
+   ![Promote_Member](https://github.com/user-attachments/assets/cae2cfdc-8515-4dd0-b2c7-f3306957a785)
+
 
 
 4. E-Mail bestätigen.
