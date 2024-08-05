@@ -31,4 +31,5 @@ Dokumentation über den Lernplan
 9. Briefcase Tourural
     https://docs.beeware.org/en/latest/
 
-   
+10. Toga Tutural
+    https://toga.readthedocs.io/en/stable/tutorial/index.html
