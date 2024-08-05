@@ -1,7 +1,7 @@
 # NADOO-Teach
 Dokumentation über den Lernplan
 
-1. Erstellen eines Github Reposetorys für Notizen, Feedback, Fragen, 
+1. Fork dieses Github Reposetorys erstellen für eigene Notizen, Feedback, Fragen und Verbesserungen
 
 1. Für assyncrone Terminierung für z.B. Besprechungen und irriguläre Termine ist es hilfreich ein Kalenderterminierungstool zu verwenden. Hier setzten wir auf das DSGVO Konforme Tool meetergo. Die erste Aufgabe ist das erstellen eines Kontos. Sollte bereits ein Kalendertool vorhanden sein sollte der Link an christoph.backhaus@nadooit.de gesendet werden.
 Seite:   https://my.meetergo.com/
