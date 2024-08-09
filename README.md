@@ -23,7 +23,7 @@ Dokumentation über den Lernplan
 
 7. Tisch reservieren.
 
-8. Profil mit den gewünschten Informationen füllen. Hier ist nur der Kalenderlink vorgegeben. Alles Weitere ist freiwillig.
+8. Profil mit den gewünschten Informationen füllen. Hier ist nur der Kalenderlink vorgegeben. Diesen in die About Me Sektion einfügen. Alles Weitere ist freiwillig.
    ![Profil_ausfüllen](https://github.com/user-attachments/assets/d1a089c8-f0ba-4d3c-bf38-aa0e0979d561)
 
 9. Briefcase Tutorial
